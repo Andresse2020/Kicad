@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ASMT-YTC7-0AA02"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ASMT-YTC7-0AA02")
+        (spec "default")
+    )
+)

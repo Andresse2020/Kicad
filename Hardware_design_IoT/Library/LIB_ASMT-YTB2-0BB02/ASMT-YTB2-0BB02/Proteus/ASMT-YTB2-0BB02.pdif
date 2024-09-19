@@ -1,0 +1,119 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ASMT-YTB2-0BB02"
+   (description "Broadcom ASMT-YTB2-0BB02, 470 / 530 / 622 nm 3 RGB LED, PLCC 6 SMD package")
+   (family "DIO")
+   (package "ASMT-YTC7-0AA02")
+   (attribute "Datasheet Link" "")
+   (attribute "Mouser Part Number" "630-ASMT-YTB2-0BB02")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMT-YTB2-0BB02?qs=wmFqszA%252Be7NbgAs1Z53pjg%3D%3D")
+   (attribute "Manufacturer_Name" "Avago Technologies")
+   (attribute "Manufacturer_Part_Number" "ASMT-YTB2-0BB02")
+   (gate
+    (symbol "ASMT-YTB2-0BB02")
+    (pin "K_BLUE" 1 PS)
+    (pin "K_GREEN" 2 PS)
+    (pin "K_RED" 3 PS)
+    (pin "A_RED" 4 PS)
+    (pin "A_GREEN" 5 PS)
+    (pin "A_BLUE" 6 PS)
+   )
+  )
+  (symbol "ASMT-YTB2-0BB02"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1200 100) (pt 1200 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 1400 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "ASMT-YTC7-0AA02"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt -1.4 1.5)
+      (pt 1.4 1.5)
+      (pt 1.4 -1.5)
+      (pt -1.4 -1.5)
+      (pt -1.4 1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt -1.4 1.5)
+      (pt -1.4 -1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 1.4 1.5)
+      (pt 1.4 -1.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (circle
+      (pt 0.843 3.152) (pt 1.013 3.152)
+     )
+    )
+   )
+   (leg 1 (pt 0.9 1.475) (padstack 0))
+   (leg 2 (pt 0 1.475) (padstack 0))
+   (leg 3 (pt -0.9 1.475) (padstack 0))
+   (leg 4 (pt -0.9 -1.475) (padstack 0))
+   (leg 5 (pt 0 -1.475) (padstack 0))
+   (leg 6 (pt 0.9 -1.475) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.5 1.6 0 0 90))
+   )
+   (model "ASMT-YTB2-0BB02.stp"
+    (euler 0 0 90)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

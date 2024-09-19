@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ASMT-YTB2-0BB02"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "ASMT-YTC7-0AA02")
+        (spec "System")
+    )
+)

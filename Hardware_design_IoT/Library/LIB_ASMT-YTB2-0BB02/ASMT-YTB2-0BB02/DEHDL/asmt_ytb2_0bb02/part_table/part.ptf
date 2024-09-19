@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ASMT_YTB2_0BB02'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Avago Technologies", "ASMT-YTB2-0BB02" (!) = "", "ASMT-YTC7-0AA02", "Other", "630-ASMT-YTB2-0BB02", "https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMT-YTB2-0BB02?qs=wmFqszA%252Be7NbgAs1Z53pjg%3D%3D", "Broadcom ASMT-YTB2-0BB02, 470 / 530 / 622 nm 3 RGB LED, PLCC 6 SMD package", ""
+END_PART
+
+END.

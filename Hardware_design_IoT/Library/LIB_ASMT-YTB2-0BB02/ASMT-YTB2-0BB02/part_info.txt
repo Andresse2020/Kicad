@@ -1,0 +1,9 @@
+Manufacturer=Avago Technologies
+PartNumber=ASMT-YTB2-0BB02
+PartCategory=LED
+PackageCategory=Other
+PinCount=6
+Version=1.1
+Released=2019-01-08 14:37:40
+Downloaded=2024-09-07 14:15:30
+3D=Y

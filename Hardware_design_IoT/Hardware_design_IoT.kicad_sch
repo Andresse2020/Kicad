@@ -1,0 +1,922 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "80c486a0-6800-4b57-8abf-216d6c3379c2")
+	(paper "A4")
+	(title_block
+		(title "IoT with STM32 and 4G modem")
+		(date "2024-08-13")
+		(rev "1.0")
+	)
+	(lib_symbols)
+	(no_connect
+		(at 85.09 43.18)
+		(uuid "56b48dc0-7614-400d-a5f6-5e0984d24434")
+	)
+	(no_connect
+		(at 99.06 154.94)
+		(uuid "d30f2a2a-8c7f-46da-8f33-14e3738e4a32")
+	)
+	(no_connect
+		(at 99.06 158.75)
+		(uuid "d6d3aae5-d9ae-40da-b182-80b2a36955f7")
+	)
+	(wire
+		(pts
+			(xy 99.06 148.59) (xy 102.87 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c5e5fdd-6acf-470f-bb04-e3919681e7dd")
+	)
+	(wire
+		(pts
+			(xy 99.06 144.78) (xy 102.87 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e514f38-3b10-4d33-b741-13f3d7a753ad")
+	)
+	(wire
+		(pts
+			(xy 53.34 43.18) (xy 55.88 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cebd6f2-0835-4acb-a6cf-33c4da1b2fa0")
+	)
+	(wire
+		(pts
+			(xy 175.26 142.24) (xy 179.07 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "569837e5-0f2b-403e-a8fa-a7cc4d5d1cc6")
+	)
+	(wire
+		(pts
+			(xy 85.09 57.15) (xy 88.9 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d963cf7-0490-4de2-80de-7b91810ccf72")
+	)
+	(wire
+		(pts
+			(xy 212.09 49.53) (xy 214.63 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "720912aa-a093-4e83-9b64-4fc87fd4cb38")
+	)
+	(wire
+		(pts
+			(xy 88.9 99.06) (xy 88.9 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "753eda7d-551d-4da0-ba61-44552bcb55c5")
+	)
+	(wire
+		(pts
+			(xy 175.26 110.49) (xy 179.07 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76ffaf80-03ac-48c6-a801-30528dbe67ae")
+	)
+	(wire
+		(pts
+			(xy 66.04 99.06) (xy 66.04 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c47a374-4e87-4710-9e7b-e14d8fa48064")
+	)
+	(wire
+		(pts
+			(xy 212.09 45.72) (xy 214.63 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d499749-5ec2-4ce8-b5ce-68c0796f4bbb")
+	)
+	(wire
+		(pts
+			(xy 175.26 118.11) (xy 179.07 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82c51680-4a8a-43a7-b1c5-0c73eb2ac6bc")
+	)
+	(wire
+		(pts
+			(xy 176.53 45.72) (xy 179.07 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "872dd6db-6dfe-4bd5-8683-bbd8ca21a8ae")
+	)
+	(wire
+		(pts
+			(xy 212.09 66.04) (xy 214.63 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8986a489-d7b8-49b2-98d8-bfcafcbea1de")
+	)
+	(wire
+		(pts
+			(xy 212.09 62.23) (xy 214.63 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a95a2450-4881-43bd-b567-795fec9d93f7")
+	)
+	(wire
+		(pts
+			(xy 208.28 140.97) (xy 212.09 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b31570ef-dcae-496c-99a8-31fe48fe932e")
+	)
+	(wire
+		(pts
+			(xy 212.09 53.34) (xy 214.63 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b52fd9b5-9305-48c7-9913-5929e655bf96")
+	)
+	(wire
+		(pts
+			(xy 85.09 76.2) (xy 88.9 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c410d240-f7ee-424d-85f9-3be34359adcf")
+	)
+	(wire
+		(pts
+			(xy 175.26 121.92) (xy 179.07 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c87ae819-1c60-4b03-8732-33e25b3ca46f")
+	)
+	(wire
+		(pts
+			(xy 175.26 146.05) (xy 179.07 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4aa7361-f331-400d-830e-8896c64dc122")
+	)
+	(wire
+		(pts
+			(xy 85.09 50.8) (xy 88.9 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e59650b7-113a-44ab-a622-4780cf691e06")
+	)
+	(wire
+		(pts
+			(xy 52.07 147.32) (xy 55.88 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edae73a7-3a4d-4afa-955c-754fd2eab54c")
+	)
+	(wire
+		(pts
+			(xy 175.26 77.47) (xy 179.07 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f27db5db-63ad-4c49-96dd-96fb39c75d28")
+	)
+	(wire
+		(pts
+			(xy 52.07 151.13) (xy 55.88 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f562618a-631d-4f5f-a71b-7f17f7c5ea9c")
+	)
+	(label "LTEMODEM_LDO_EN"
+		(at 214.63 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "02c0e7f2-c3c1-40e4-b6dd-f249cc4626ea")
+	)
+	(label "MODEM_TX"
+		(at 175.26 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "076fbd4f-7775-40c6-9636-fdc03e953439")
+	)
+	(label "VCC_LTEMODEM"
+		(at 175.26 110.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0d1bb8fa-9e28-458b-ac47-728f32187ce2")
+	)
+	(label "MCU_TO_MODEM_UART_RX"
+		(at 102.87 144.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "16c4daaf-83dd-48bc-8281-8e748ef734d8")
+	)
+	(label "VCC_LTEMODEM"
+		(at 88.9 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3476a576-c016-440b-a5c5-2b7dd6612dfb")
+	)
+	(label "MCU_TO_MODEM_UART_RX"
+		(at 214.63 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "37935faf-8d6e-42b6-a255-3264f17ee07f")
+	)
+	(label "LTEMODEM_RST"
+		(at 175.26 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4d0826ae-e308-4ec6-a33e-e84551538c09")
+	)
+	(label "GND"
+		(at 88.9 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50a8e568-66e4-432b-804b-d151ace7fe22")
+	)
+	(label "MCU_TO_MODEM_UART_TX"
+		(at 102.87 148.59 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5734a2a4-429e-4029-af2f-fcbb5db348e3")
+	)
+	(label "GND"
+		(at 175.26 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "74ed6ed9-1031-4abf-af09-491a9d31435a")
+	)
+	(label "LTEMODEM_LDO_EN"
+		(at 53.34 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "83ce6d36-5725-4c65-b3e3-75b8f8d486e9")
+	)
+	(label "MODEM_RX"
+		(at 52.07 147.32 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8f2245c3-2f28-417e-8ac4-79ac856f2788")
+	)
+	(label "MODEM_TX"
+		(at 52.07 151.13 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "924cda10-bee6-4f52-9995-178b4404ef0a")
+	)
+	(label "MCU_TO_MODEM_UART_TX"
+		(at 214.63 62.23 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a7cd06ec-d6bd-4f5f-a710-c9c4fe2323ca")
+	)
+	(label "3.3V"
+		(at 88.9 99.06 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b95337c7-ca7c-49cf-a797-942a6d755403")
+	)
+	(label "LTEMODEM_RST"
+		(at 214.63 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c29852c4-3ba3-4312-b166-8633ba8164de")
+	)
+	(label "1.8V"
+		(at 212.09 140.97 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cfbc7e8d-df0a-45d5-881d-e8ec3c67f89f")
+	)
+	(label "3.3V"
+		(at 176.53 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d0e2bfc8-5835-4ada-95b6-2499c8b4e7bf")
+	)
+	(label "LTEMODEM_ON_OFF"
+		(at 175.26 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d3b8dbf7-8687-4f64-9053-0829cb181609")
+	)
+	(label "3.3V"
+		(at 88.9 50.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d41c6415-97c8-4614-b34e-77bd11311e4d")
+	)
+	(label "MODEM_RX"
+		(at 175.26 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e29cba53-0505-474d-9d1d-c682a83c12cd")
+	)
+	(label "LTEMODEM_ON_OFF"
+		(at 214.63 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e962ac90-3b5f-4a2b-8edc-4e5829d91254")
+	)
+	(label "1.8V"
+		(at 66.04 99.06 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f7a99479-e493-40f4-b486-d15440c05ed2")
+	)
+	(sheet
+		(at 55.88 37.465)
+		(size 29.21 45.72)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "24b4c138-18f1-4717-8843-54cf1bc77154")
+		(property "Sheetname" "Power Supply"
+			(at 64.516 36.068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_supply.kicad_sch"
+			(at 55.88 83.7696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GND" output
+			(at 85.09 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d771a4ff-ecb2-47fb-ab84-dda51fd32162")
+		)
+		(pin "5V" output
+			(at 85.09 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6b0be80e-3380-4644-bc0e-830be3f32d63")
+		)
+		(pin "3.3V" output
+			(at 85.09 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "77a73c68-b3fd-4e0d-9f3c-1d20c90e197e")
+		)
+		(pin "VCC_LTEMODEM" output
+			(at 85.09 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4e4f820f-c091-43ae-9c1c-908c66855ecd")
+		)
+		(pin "LTEMODEM_LDO_EN" input
+			(at 55.88 43.18 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bbf2cca2-bfd2-4bcf-9f20-5eaca8fa09a1")
+		)
+		(instances
+			(project "Hardware_design_IoT"
+				(path "/80c486a0-6800-4b57-8abf-216d6c3379c2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 106.68)
+		(size 29.21 46.355)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "571d964d-3bf6-4021-b675-d25d88fbaa0f")
+		(property "Sheetname" "LTE Modem Unit"
+			(at 186.055 105.156 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LTE_Modem_Unit.kicad_sch"
+			(at 179.07 153.6196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LTEMODEM_ON_OFF" input
+			(at 179.07 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1bebfe24-fc36-403d-b339-2b66f3bed238")
+		)
+		(pin "LTEMODEM_RST" input
+			(at 179.07 121.92 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2ff13405-7353-4bf7-8988-576c89520451")
+		)
+		(pin "VCC_LTEMODEM" input
+			(at 179.07 110.49 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a0d0f62c-4a34-4056-9d4f-8610fa0ee0f0")
+		)
+		(pin "1.8V" output
+			(at 208.28 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9b509194-ff29-429c-98c1-26a88307119a")
+		)
+		(pin "MODEM_TX" bidirectional
+			(at 179.07 142.24 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7f338053-9d4d-461c-b1d4-994c27efdaf7")
+		)
+		(pin "MODEM_RX" bidirectional
+			(at 179.07 146.05 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "26844759-70b7-44cc-b920-caf109f5ae91")
+		)
+		(instances
+			(project "Hardware_design_IoT"
+				(path "/80c486a0-6800-4b57-8abf-216d6c3379c2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 55.88 102.87)
+		(size 43.18 64.77)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "89ea4a5a-fb06-447b-bcef-d7a00c236952")
+		(property "Sheetname" "Interfaces"
+			(at 55.88 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Interfaces.kicad_sch"
+			(at 55.88 167.5896 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MODEM_RX" bidirectional
+			(at 55.88 147.32 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "86cc3ff7-cecd-44cd-b3fd-349ce5209929")
+		)
+		(pin "MODEM_TX" bidirectional
+			(at 55.88 151.13 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "89c2a7d0-dc4c-437c-928d-fd0aabbbca64")
+		)
+		(pin "1.8V" input
+			(at 66.04 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "cf26a722-b613-420e-9050-c0202b6c7276")
+		)
+		(pin "MCU_TO_DODEM_UART_RX" bidirectional
+			(at 99.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2486b74b-0660-44c2-9e93-ec0bd9654dbd")
+		)
+		(pin "MCU_TO_DODEM_UART_TX" bidirectional
+			(at 99.06 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "339dd2f0-64c2-4365-a081-a67073708da5")
+		)
+		(pin "CP2102_TO_MODEM_RX" bidirectional
+			(at 99.06 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f7bd62c2-aeb2-4fb8-9449-9e06356f7a0b")
+		)
+		(pin "CP2102_TO_MODEM_TX" bidirectional
+			(at 99.06 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "e78aeb17-24de-427e-84b6-17c364f587c4")
+		)
+		(pin "3.3V" input
+			(at 88.9 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "77c23451-8c12-4f47-9366-64e1629782d1")
+		)
+		(instances
+			(project "Hardware_design_IoT"
+				(path "/80c486a0-6800-4b57-8abf-216d6c3379c2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 179.07 36.83)
+		(size 33.02 48.895)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bd33c687-234b-4def-8a10-9de953d2ca05")
+		(property "Sheetname" "STM32 MCU Unit"
+			(at 187.706 35.814 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32_MCU_Unit.kicad_sch"
+			(at 179.07 86.3096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3.3V" input
+			(at 179.07 45.72 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3cf8ce8c-dcd8-4672-a4db-d8c3f42b3952")
+		)
+		(pin "GND" input
+			(at 179.07 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "54d2769b-4381-4439-b8a3-c43d06593570")
+		)
+		(pin "LTEMODEM_RST" output
+			(at 212.09 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5c6f02d2-0741-4527-9b03-d76c27b71070")
+		)
+		(pin "LTEMODEM_ON_OFF" output
+			(at 212.09 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d46c83c8-4497-4335-b51e-25d21aa7796f")
+		)
+		(pin "MCU_TO_MODEM_UART_TX" bidirectional
+			(at 212.09 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1b5886a2-7b9a-4968-b50f-2e4130176c27")
+		)
+		(pin "MCU_TO_MODEM_UART_RX" bidirectional
+			(at 212.09 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fe458d9d-982b-4b0e-acb7-8d5bcb3ada33")
+		)
+		(pin "LTEMODEM_LDO_EN" output
+			(at 212.09 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "03cd6a61-fe07-42bb-8331-0c2d5e7cca71")
+		)
+		(instances
+			(project "Hardware_design_IoT"
+				(path "/80c486a0-6800-4b57-8abf-216d6c3379c2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

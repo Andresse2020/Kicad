@@ -1,0 +1,16 @@
+.ASMT-YTB2-0BB02 :1 ;Broadcom ASMT-YTB2-0BB02, 470 / 530 / 622 nm 3 RGB LED, PLCC 6 SMD package
+ASMT-YTC7-0AA02
+*STM LED
+*NGS
+*PLB 1="K_BLUE" 2="K_GREEN" 3="K_RED" 4="A_RED" 5="A_GREEN" 6="A_BLUE"
+*MXP 6
+*DFN ASMT-YTB2-0BB02
+~!Mouser Part Number (630-ASMT-YTB2-0BB02)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMT-YTB2-0BB02?qs=wmFqszA%252Be7NbgAs1Z53pjg%3D%3D)
+~!Manufacturer_Name (Avago Technologies)
+~!Manufacturer_Part_Number (ASMT-YTB2-0BB02)
+~!Link Datasheet (-)
+~!Height (-)
+~!3D_Model (ASMT-YTB2-0BB02)
+ASMT-YTB2-0BB02
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 
