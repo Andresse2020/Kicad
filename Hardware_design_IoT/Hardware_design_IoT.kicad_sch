@@ -11,20 +11,42 @@
 	)
 	(lib_symbols)
 	(no_connect
-		(at 85.09 43.18)
+		(at 67.31 38.1)
 		(uuid "56b48dc0-7614-400d-a5f6-5e0984d24434")
-	)
-	(no_connect
-		(at 99.06 154.94)
-		(uuid "d30f2a2a-8c7f-46da-8f33-14e3738e4a32")
-	)
-	(no_connect
-		(at 99.06 158.75)
-		(uuid "d6d3aae5-d9ae-40da-b182-80b2a36955f7")
 	)
 	(wire
 		(pts
-			(xy 99.06 148.59) (xy 102.87 148.59)
+			(xy 71.12 113.03) (xy 76.2 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04b72ab8-bc11-4888-b277-b8f4eaff1248")
+	)
+	(wire
+		(pts
+			(xy 71.12 142.24) (xy 76.2 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e00669d-7ecb-4999-9462-fbdf14232f33")
+	)
+	(wire
+		(pts
+			(xy 35.56 105.41) (xy 31.75 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e4925d0-fe0f-40d5-aba5-0ab349bdedb4")
+	)
+	(wire
+		(pts
+			(xy 248.92 107.95) (xy 252.73 107.95)
 		)
 		(stroke
 			(width 0)
@@ -34,7 +56,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 144.78) (xy 102.87 144.78)
+			(xy 248.92 104.14) (xy 252.73 104.14)
 		)
 		(stroke
 			(width 0)
@@ -44,7 +66,97 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 43.18) (xy 55.88 43.18)
+			(xy 201.93 129.54) (xy 205.74 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "220e176d-f122-413b-b707-90f4ec333735")
+	)
+	(wire
+		(pts
+			(xy 71.12 168.91) (xy 76.2 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2716e143-279f-4610-aab4-76516ba3a61c")
+	)
+	(wire
+		(pts
+			(xy 71.12 120.65) (xy 76.2 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27599662-e901-4e41-a986-2316c78ef5d7")
+	)
+	(wire
+		(pts
+			(xy 248.92 118.11) (xy 254 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "284e5f37-94c8-4eb5-a6e1-3f7b1e4bbf3c")
+	)
+	(wire
+		(pts
+			(xy 71.12 134.62) (xy 76.2 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f8399b7-3d1d-4dba-968c-7ec8dc2e2c8d")
+	)
+	(wire
+		(pts
+			(xy 71.12 105.41) (xy 74.93 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31b30641-2fce-49e5-8958-622b8f77006a")
+	)
+	(wire
+		(pts
+			(xy 71.12 124.46) (xy 76.2 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31e75e96-f9c3-41f6-8ad0-d914df51bdd9")
+	)
+	(wire
+		(pts
+			(xy 248.92 85.09) (xy 254 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39c03ca9-acc4-4a58-8c7b-17c15ff391d5")
+	)
+	(wire
+		(pts
+			(xy 71.12 101.6) (xy 74.93 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c76a9e0-3795-466a-8a6a-8cb22d1a050f")
+	)
+	(wire
+		(pts
+			(xy 35.56 38.1) (xy 38.1 38.1)
 		)
 		(stroke
 			(width 0)
@@ -54,7 +166,67 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 142.24) (xy 179.07 142.24)
+			(xy 201.93 93.98) (xy 205.74 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3faccc86-b400-4172-8d50-3c44900c5771")
+	)
+	(wire
+		(pts
+			(xy 200.66 71.12) (xy 205.74 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "442184d1-b134-4663-90b4-d5211693bbe5")
+	)
+	(wire
+		(pts
+			(xy 71.12 157.48) (xy 76.2 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4aba2f38-e0bf-4a2b-b432-4adc16afa28b")
+	)
+	(wire
+		(pts
+			(xy 71.12 161.29) (xy 76.2 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f90f67e-4df3-4ecb-9179-a0bb31fae4e8")
+	)
+	(wire
+		(pts
+			(xy 71.12 147.32) (xy 76.2 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50bfc7e8-4df0-4f15-9d6e-2b88814de650")
+	)
+	(wire
+		(pts
+			(xy 71.12 151.13) (xy 76.2 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52cb0c8c-c7d5-428a-894b-eab5d005d63d")
+	)
+	(wire
+		(pts
+			(xy 31.75 140.97) (xy 35.56 140.97)
 		)
 		(stroke
 			(width 0)
@@ -64,7 +236,37 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 57.15) (xy 88.9 57.15)
+			(xy 67.31 52.07) (xy 71.12 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67fd46da-c12a-4657-ba93-f28dadaf1d4c")
+	)
+	(wire
+		(pts
+			(xy 248.92 74.93) (xy 254 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a5a808c-d546-4949-8d5b-2e60db517cbe")
+	)
+	(wire
+		(pts
+			(xy 248.92 121.92) (xy 254 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c0f1e6e-b4ba-470e-a2a9-6d00aee18cac")
+	)
+	(wire
+		(pts
+			(xy 67.31 58.42) (xy 72.39 58.42)
 		)
 		(stroke
 			(width 0)
@@ -74,7 +276,17 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 49.53) (xy 214.63 49.53)
+			(xy 248.92 92.71) (xy 254 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "710dd52f-7c27-4da8-9179-be5c97b2967a")
+	)
+	(wire
+		(pts
+			(xy 143.51 83.82) (xy 146.05 83.82)
 		)
 		(stroke
 			(width 0)
@@ -84,7 +296,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 99.06) (xy 88.9 102.87)
+			(xy 227.33 58.42) (xy 227.33 62.23)
 		)
 		(stroke
 			(width 0)
@@ -94,7 +306,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 110.49) (xy 179.07 110.49)
+			(xy 31.75 101.6) (xy 35.56 101.6)
 		)
 		(stroke
 			(width 0)
@@ -104,7 +316,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 99.06) (xy 66.04 102.87)
+			(xy 214.63 58.42) (xy 214.63 62.23)
 		)
 		(stroke
 			(width 0)
@@ -114,7 +326,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 45.72) (xy 214.63 45.72)
+			(xy 143.51 80.01) (xy 146.05 80.01)
 		)
 		(stroke
 			(width 0)
@@ -124,7 +336,27 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 118.11) (xy 179.07 118.11)
+			(xy 71.12 176.53) (xy 76.2 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d8b7395-8caa-4384-89bd-cef08c994110")
+	)
+	(wire
+		(pts
+			(xy 200.66 82.55) (xy 205.74 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8085a9de-44db-4141-9446-bb4ff006b9cd")
+	)
+	(wire
+		(pts
+			(xy 33.02 113.03) (xy 35.56 113.03)
 		)
 		(stroke
 			(width 0)
@@ -134,7 +366,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 45.72) (xy 179.07 45.72)
+			(xy 107.95 80.01) (xy 110.49 80.01)
 		)
 		(stroke
 			(width 0)
@@ -144,7 +376,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 66.04) (xy 214.63 66.04)
+			(xy 143.51 100.33) (xy 146.05 100.33)
 		)
 		(stroke
 			(width 0)
@@ -154,7 +386,47 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 62.23) (xy 214.63 62.23)
+			(xy 71.12 130.81) (xy 76.2 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e915939-9467-48cf-9243-e4ed334cabb5")
+	)
+	(wire
+		(pts
+			(xy 71.12 116.84) (xy 76.2 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91525770-f3e4-4af9-90f9-ba1348141997")
+	)
+	(wire
+		(pts
+			(xy 200.66 78.74) (xy 205.74 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93c5179e-6033-47d2-92f9-5d5b766989d0")
+	)
+	(wire
+		(pts
+			(xy 200.66 74.93) (xy 205.74 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96a18882-315b-4755-80d3-c16159a52782")
+	)
+	(wire
+		(pts
+			(xy 143.51 96.52) (xy 146.05 96.52)
 		)
 		(stroke
 			(width 0)
@@ -164,17 +436,37 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 140.97) (xy 212.09 140.97)
+			(xy 248.92 96.52) (xy 254 96.52)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b31570ef-dcae-496c-99a8-31fe48fe932e")
+		(uuid "ae32d040-f852-4473-810a-e6c2c119b6c1")
 	)
 	(wire
 		(pts
-			(xy 212.09 53.34) (xy 214.63 53.34)
+			(xy 220.98 58.42) (xy 220.98 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b167c3e3-3640-4a60-adb2-b0eaac980833")
+	)
+	(wire
+		(pts
+			(xy 248.92 88.9) (xy 254 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2b9a34d-b35e-4823-9b2f-fd34c2e7f513")
+	)
+	(wire
+		(pts
+			(xy 143.51 87.63) (xy 146.05 87.63)
 		)
 		(stroke
 			(width 0)
@@ -184,7 +476,27 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 76.2) (xy 88.9 76.2)
+			(xy 248.92 72.39) (xy 254 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6c3eccd-1f2b-4c9c-b06a-a77f987b1bea")
+	)
+	(wire
+		(pts
+			(xy 248.92 114.3) (xy 254 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b95a7037-84dd-4525-b162-219bfd1499cf")
+	)
+	(wire
+		(pts
+			(xy 67.31 71.12) (xy 71.12 71.12)
 		)
 		(stroke
 			(width 0)
@@ -194,7 +506,17 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 121.92) (xy 179.07 121.92)
+			(xy 71.12 172.72) (xy 76.2 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c530a5c5-d7b1-4e2d-b457-6161516b8909")
+	)
+	(wire
+		(pts
+			(xy 33.02 116.84) (xy 35.56 116.84)
 		)
 		(stroke
 			(width 0)
@@ -204,7 +526,17 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 146.05) (xy 179.07 146.05)
+			(xy 233.68 58.42) (xy 233.68 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8d2b0fb-22d9-46c8-a67a-940720c2f9aa")
+	)
+	(wire
+		(pts
+			(xy 31.75 144.78) (xy 35.56 144.78)
 		)
 		(stroke
 			(width 0)
@@ -214,7 +546,17 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 50.8) (xy 88.9 50.8)
+			(xy 201.93 125.73) (xy 205.74 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1e54a17-92c5-435f-98a3-576f9cabae42")
+	)
+	(wire
+		(pts
+			(xy 67.31 45.72) (xy 71.12 45.72)
 		)
 		(stroke
 			(width 0)
@@ -224,7 +566,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 147.32) (xy 55.88 147.32)
+			(xy 203.2 114.3) (xy 205.74 114.3)
 		)
 		(stroke
 			(width 0)
@@ -234,7 +576,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 77.47) (xy 179.07 77.47)
+			(xy 106.68 111.76) (xy 110.49 111.76)
 		)
 		(stroke
 			(width 0)
@@ -244,7 +586,17 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 151.13) (xy 55.88 151.13)
+			(xy 71.12 138.43) (xy 76.2 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2c2272f-890a-4541-9649-df0db1463c3b")
+	)
+	(wire
+		(pts
+			(xy 203.2 118.11) (xy 205.74 118.11)
 		)
 		(stroke
 			(width 0)
@@ -252,8 +604,29 @@
 		)
 		(uuid "f562618a-631d-4f5f-a71b-7f17f7c5ea9c")
 	)
+	(wire
+		(pts
+			(xy 201.93 97.79) (xy 205.74 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcbf0383-5964-486f-835c-331412c8944a")
+	)
+	(label "SIM_DATA"
+		(at 200.66 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "00a9fdf8-4a0a-414d-9503-17245546c299")
+	)
 	(label "LTEMODEM_LDO_EN"
-		(at 214.63 53.34 0)
+		(at 146.05 87.63 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -263,8 +636,19 @@
 		)
 		(uuid "02c0e7f2-c3c1-40e4-b6dd-f249cc4626ea")
 	)
+	(label "3V"
+		(at 71.12 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "07313844-e4c5-4b34-aff4-8e81008ddd6d")
+	)
 	(label "MODEM_TX"
-		(at 175.26 142.24 180)
+		(at 31.75 140.97 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -275,7 +659,7 @@
 		(uuid "076fbd4f-7775-40c6-9636-fdc03e953439")
 	)
 	(label "VCC_LTEMODEM"
-		(at 175.26 110.49 180)
+		(at 31.75 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -285,8 +669,19 @@
 		)
 		(uuid "0d1bb8fa-9e28-458b-ac47-728f32187ce2")
 	)
+	(label "SIM_CLK"
+		(at 76.2 120.65 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0dfa1126-09eb-4f04-b1ee-8342e35daac9")
+	)
 	(label "MCU_TO_MODEM_UART_RX"
-		(at 102.87 144.78 0)
+		(at 252.73 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -296,8 +691,52 @@
 		)
 		(uuid "16c4daaf-83dd-48bc-8281-8e748ef734d8")
 	)
+	(label "SD_CLK"
+		(at 201.93 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "17f3eda0-03e2-4a59-b7c7-34da06ec0f5f")
+	)
+	(label "USB_N"
+		(at 254 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "19be4264-bdb8-4149-9c7e-a5023e64baca")
+	)
+	(label "MAIN_ANTENNA"
+		(at 76.2 168.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "251e3eb8-3a91-497e-8ee9-41696cc340cd")
+	)
+	(label "SD_CMD"
+		(at 76.2 147.32 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e6a9ea1-d523-40a7-9827-db599ea897b6")
+	)
 	(label "VCC_LTEMODEM"
-		(at 88.9 57.15 0)
+		(at 72.39 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -307,8 +746,19 @@
 		)
 		(uuid "3476a576-c016-440b-a5c5-2b7dd6612dfb")
 	)
+	(label "VCC_LTEMODEM"
+		(at 233.68 58.42 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "34856d62-7c72-4b3a-b96f-0afaa740ff37")
+	)
 	(label "MCU_TO_MODEM_UART_RX"
-		(at 214.63 66.04 0)
+		(at 146.05 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -318,8 +768,52 @@
 		)
 		(uuid "37935faf-8d6e-42b6-a255-3264f17ee07f")
 	)
+	(label "3V"
+		(at 220.98 58.42 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "409bdb0f-a298-4916-8283-8fe49539558d")
+	)
+	(label "SD_DATA2"
+		(at 254 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "48786212-6395-491f-b749-b5897d32da0e")
+	)
+	(label "SD_CMD"
+		(at 201.93 97.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4c80abfd-b235-4eeb-b4d3-812ab845c31b")
+	)
+	(label "SIM_VDD"
+		(at 76.2 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4cf77d80-7ad7-4914-9d0a-cd29c7750021")
+	)
 	(label "LTEMODEM_RST"
-		(at 175.26 121.92 180)
+		(at 33.02 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -329,8 +823,41 @@
 		)
 		(uuid "4d0826ae-e308-4ec6-a33e-e84551538c09")
 	)
+	(label "USB_N"
+		(at 74.93 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4e1a57d3-2283-4ab4-a725-c02e41b1d9ba")
+	)
+	(label "USB_P"
+		(at 254 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4eb40682-f1d2-428f-b6c9-5a28907da3b9")
+	)
+	(label "SD_DATA0"
+		(at 76.2 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "503ca41a-098f-42dd-b809-b45a87f0eb92")
+	)
 	(label "GND"
-		(at 88.9 76.2 0)
+		(at 71.12 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -340,8 +867,30 @@
 		)
 		(uuid "50a8e568-66e4-432b-804b-d151ace7fe22")
 	)
+	(label "SIM_RST"
+		(at 200.66 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "50e74a63-eab2-4bf4-b17a-ff1dea09218b")
+	)
+	(label "STATUS"
+		(at 201.93 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "54360738-0bf4-4824-becf-9a203676c800")
+	)
 	(label "MCU_TO_MODEM_UART_TX"
-		(at 102.87 148.59 0)
+		(at 252.73 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -351,8 +900,52 @@
 		)
 		(uuid "5734a2a4-429e-4029-af2f-fcbb5db348e3")
 	)
+	(label "SD_DATA1"
+		(at 254 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5a4d40ea-d9a9-4e42-b992-81e7288a2435")
+	)
+	(label "USB_P"
+		(at 74.93 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5b6ec468-ee85-467d-9f8a-a00ce86eee07")
+	)
+	(label "SIM_CLK"
+		(at 200.66 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "729b2639-bdbf-4326-9c5b-b7ecb4a2b1b5")
+	)
+	(label "MAIN_ANTENNA"
+		(at 254 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74b4bb57-9f10-45aa-a76b-88f124d6f3b0")
+	)
 	(label "GND"
-		(at 175.26 77.47 180)
+		(at 106.68 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -362,8 +955,30 @@
 		)
 		(uuid "74ed6ed9-1031-4abf-af09-491a9d31435a")
 	)
+	(label "AUX_ANTENNA"
+		(at 76.2 172.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "779563d0-9c11-42f2-a953-b208a560f86d")
+	)
+	(label "SIM_RST"
+		(at 76.2 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "839bf0c3-f61e-4e41-a64d-cd64479f1c29")
+	)
 	(label "LTEMODEM_LDO_EN"
-		(at 53.34 43.18 180)
+		(at 35.56 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -373,8 +988,19 @@
 		)
 		(uuid "83ce6d36-5725-4c65-b3e3-75b8f8d486e9")
 	)
+	(label "STATUS"
+		(at 76.2 161.29 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "86f91519-be63-4458-a086-7c80cf99de08")
+	)
 	(label "MODEM_RX"
-		(at 52.07 147.32 180)
+		(at 203.2 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -384,8 +1010,19 @@
 		)
 		(uuid "8f2245c3-2f28-417e-8ac4-79ac856f2788")
 	)
+	(label "GNSS_ANTENNA"
+		(at 254 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9114d52c-6b58-4702-b800-4d97c72e71d4")
+	)
 	(label "MODEM_TX"
-		(at 52.07 151.13 180)
+		(at 203.2 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -395,8 +1032,19 @@
 		)
 		(uuid "924cda10-bee6-4f52-9995-178b4404ef0a")
 	)
+	(label "SD_DATA3"
+		(at 76.2 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9362a02d-9024-404e-8f1b-cbc880359f9c")
+	)
 	(label "MCU_TO_MODEM_UART_TX"
-		(at 214.63 62.23 0)
+		(at 146.05 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -406,8 +1054,19 @@
 		)
 		(uuid "a7cd06ec-d6bd-4f5f-a710-c9c4fe2323ca")
 	)
+	(label "NETLIGHT"
+		(at 76.2 157.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b7ffecc9-f380-4fc8-995b-72ff8e060dc5")
+	)
 	(label "3.3V"
-		(at 88.9 99.06 90)
+		(at 227.33 58.42 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -417,8 +1076,30 @@
 		)
 		(uuid "b95337c7-ca7c-49cf-a797-942a6d755403")
 	)
+	(label "NETLIGHT"
+		(at 201.93 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bc61f36e-d3c6-4067-809d-b9ade9d32062")
+	)
+	(label "SD_DATA2"
+		(at 76.2 138.43 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bf86a578-4db6-4149-8d25-4d6e7390c12d")
+	)
 	(label "LTEMODEM_RST"
-		(at 214.63 45.72 0)
+		(at 146.05 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -429,18 +1110,18 @@
 		(uuid "c29852c4-3ba3-4312-b166-8633ba8164de")
 	)
 	(label "1.8V"
-		(at 212.09 140.97 0)
+		(at 31.75 105.41 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "cfbc7e8d-df0a-45d5-881d-e8ec3c67f89f")
 	)
 	(label "3.3V"
-		(at 176.53 45.72 180)
+		(at 107.95 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -451,7 +1132,7 @@
 		(uuid "d0e2bfc8-5835-4ada-95b6-2499c8b4e7bf")
 	)
 	(label "LTEMODEM_ON_OFF"
-		(at 175.26 118.11 180)
+		(at 33.02 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -462,7 +1143,7 @@
 		(uuid "d3b8dbf7-8687-4f64-9053-0829cb181609")
 	)
 	(label "3.3V"
-		(at 88.9 50.8 0)
+		(at 71.12 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -472,8 +1153,41 @@
 		)
 		(uuid "d41c6415-97c8-4614-b34e-77bd11311e4d")
 	)
+	(label "SIM_VDD"
+		(at 200.66 71.12 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d73d6c17-564f-4911-8773-9812af9f915d")
+	)
+	(label "SD_CLK"
+		(at 76.2 151.13 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "de8a57ba-ed10-4b7c-b94e-a2dd13e61a9f")
+	)
+	(label "GNSS_ANTENNA"
+		(at 76.2 176.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "df638d49-373e-4c30-b904-60002bbdb174")
+	)
 	(label "MODEM_RX"
-		(at 175.26 146.05 180)
+		(at 31.75 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -483,8 +1197,19 @@
 		)
 		(uuid "e29cba53-0505-474d-9d1d-c682a83c12cd")
 	)
+	(label "SD_DATA3"
+		(at 254 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e30a1f7e-a3c5-4819-b13a-85f2a07e9a6f")
+	)
 	(label "LTEMODEM_ON_OFF"
-		(at 214.63 49.53 0)
+		(at 146.05 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -494,8 +1219,30 @@
 		)
 		(uuid "e962ac90-3b5f-4a2b-8edc-4e5829d91254")
 	)
+	(label "SD_DATA0"
+		(at 254 96.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ed8866f1-f85e-4a22-9ec7-318025834a39")
+	)
+	(label "SIM_DATA"
+		(at 76.2 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ee4a535b-d839-4681-9b4d-a0eafa439dbe")
+	)
 	(label "1.8V"
-		(at 66.04 99.06 90)
+		(at 214.63 58.42 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -505,8 +1252,30 @@
 		)
 		(uuid "f7a99479-e493-40f4-b486-d15440c05ed2")
 	)
+	(label "SD_DATA1"
+		(at 76.2 134.62 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f8922ad5-30f0-43b2-a8bc-6d38630bb17c")
+	)
+	(label "AUX_ANTENNA"
+		(at 254 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fdde04b3-0253-4c34-8854-d35d88516216")
+	)
 	(sheet
-		(at 55.88 37.465)
+		(at 38.1 32.385)
 		(size 29.21 45.72)
 		(stroke
 			(width 0.1524)
@@ -517,7 +1286,7 @@
 		)
 		(uuid "24b4c138-18f1-4717-8843-54cf1bc77154")
 		(property "Sheetname" "Power Supply"
-			(at 64.516 36.068 0)
+			(at 46.736 30.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -526,7 +1295,7 @@
 			)
 		)
 		(property "Sheetfile" "power_supply.kicad_sch"
-			(at 55.88 83.7696 0)
+			(at 38.1 78.6896 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -535,7 +1304,7 @@
 			)
 		)
 		(pin "GND" output
-			(at 85.09 76.2 0)
+			(at 67.31 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -545,7 +1314,7 @@
 			(uuid "d771a4ff-ecb2-47fb-ab84-dda51fd32162")
 		)
 		(pin "5V" output
-			(at 85.09 43.18 0)
+			(at 67.31 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -555,7 +1324,7 @@
 			(uuid "6b0be80e-3380-4644-bc0e-830be3f32d63")
 		)
 		(pin "3.3V" output
-			(at 85.09 50.8 0)
+			(at 67.31 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -565,7 +1334,7 @@
 			(uuid "77a73c68-b3fd-4e0d-9f3c-1d20c90e197e")
 		)
 		(pin "VCC_LTEMODEM" output
-			(at 85.09 57.15 0)
+			(at 67.31 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -575,7 +1344,7 @@
 			(uuid "4e4f820f-c091-43ae-9c1c-908c66855ecd")
 		)
 		(pin "LTEMODEM_LDO_EN" input
-			(at 55.88 43.18 180)
+			(at 38.1 38.1 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -583,6 +1352,16 @@
 				(justify left)
 			)
 			(uuid "bbf2cca2-bfd2-4bcf-9f20-5eaca8fa09a1")
+		)
+		(pin "3V" output
+			(at 67.31 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b9877ce1-ebc5-4c56-99ef-a6cac424898a")
 		)
 		(instances
 			(project "Hardware_design_IoT"
@@ -593,8 +1372,8 @@
 		)
 	)
 	(sheet
-		(at 179.07 106.68)
-		(size 29.21 46.355)
+		(at 35.56 96.52)
+		(size 35.56 85.09)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -604,7 +1383,7 @@
 		)
 		(uuid "571d964d-3bf6-4021-b675-d25d88fbaa0f")
 		(property "Sheetname" "LTE Modem Unit"
-			(at 186.055 105.156 0)
+			(at 44.704 95.504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -613,7 +1392,7 @@
 			)
 		)
 		(property "Sheetfile" "LTE_Modem_Unit.kicad_sch"
-			(at 179.07 153.6196 0)
+			(at 37.846 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -622,7 +1401,7 @@
 			)
 		)
 		(pin "LTEMODEM_ON_OFF" input
-			(at 179.07 118.11 180)
+			(at 35.56 113.03 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -632,7 +1411,7 @@
 			(uuid "1bebfe24-fc36-403d-b339-2b66f3bed238")
 		)
 		(pin "LTEMODEM_RST" input
-			(at 179.07 121.92 180)
+			(at 35.56 116.84 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -642,7 +1421,7 @@
 			(uuid "2ff13405-7353-4bf7-8988-576c89520451")
 		)
 		(pin "VCC_LTEMODEM" input
-			(at 179.07 110.49 180)
+			(at 35.56 101.6 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -652,17 +1431,17 @@
 			(uuid "a0d0f62c-4a34-4056-9d4f-8610fa0ee0f0")
 		)
 		(pin "1.8V" output
-			(at 208.28 140.97 0)
+			(at 35.56 105.41 180)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 			(uuid "9b509194-ff29-429c-98c1-26a88307119a")
 		)
 		(pin "MODEM_TX" bidirectional
-			(at 179.07 142.24 180)
+			(at 35.56 140.97 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -672,7 +1451,7 @@
 			(uuid "7f338053-9d4d-461c-b1d4-994c27efdaf7")
 		)
 		(pin "MODEM_RX" bidirectional
-			(at 179.07 146.05 180)
+			(at 35.56 144.78 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -680,6 +1459,176 @@
 				(justify left)
 			)
 			(uuid "26844759-70b7-44cc-b920-caf109f5ae91")
+		)
+		(pin "USB_N" bidirectional
+			(at 71.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5799380d-99c9-4392-86ce-1f88825117bf")
+		)
+		(pin "USB_P" bidirectional
+			(at 71.12 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "63ad5a89-e620-4fa0-9028-b86386c5dd04")
+		)
+		(pin "SIM_DATA" bidirectional
+			(at 71.12 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "36df1f79-8f3c-423b-84d0-6d9002906d71")
+		)
+		(pin "SIM_RST" output
+			(at 71.12 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "99890bb3-b961-443f-b448-a83a74719001")
+		)
+		(pin "SIM_CLK" output
+			(at 71.12 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "61644ded-e27a-492b-9ce3-a563db355c62")
+		)
+		(pin "SIM_VDD" output
+			(at 71.12 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1744a76a-76e5-4f78-bb91-fed25c94abcb")
+		)
+		(pin "SD_DATA2" bidirectional
+			(at 71.12 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2bd26f83-cda3-4229-9d04-c34e99e8c3f9")
+		)
+		(pin "SD_DATA1" bidirectional
+			(at 71.12 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "95f55b75-2071-413c-9200-d5ebfb560fc7")
+		)
+		(pin "SD_DATA3" bidirectional
+			(at 71.12 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a2631aa5-38a1-4c94-949e-32fd43f2e634")
+		)
+		(pin "SD_DATA0" bidirectional
+			(at 71.12 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "59d5bfc8-9388-445f-98db-7e60084a671f")
+		)
+		(pin "SD_CMD" output
+			(at 71.12 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d1d92b1d-9cda-41a2-ad16-c441e110107a")
+		)
+		(pin "SD_CLK" output
+			(at 71.12 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "05f109be-18a4-45e4-a545-975524c8f4b0")
+		)
+		(pin "NETLIGHT" output
+			(at 71.12 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d60a7239-5605-4d8f-8086-84c124a66db3")
+		)
+		(pin "STATUS" output
+			(at 71.12 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7ca06073-530f-4191-97bf-39e777f0405e")
+		)
+		(pin "AUX_ANTENNA" bidirectional
+			(at 71.12 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8af982fe-25fc-4916-84da-6ccc0bd167be")
+		)
+		(pin "MAIN_ANTENNA" bidirectional
+			(at 71.12 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5dbc2ee8-28f1-4c9e-a343-23cfa70d7477")
+		)
+		(pin "GNSS_ANTENNA" input
+			(at 71.12 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "34185d45-0701-49db-9e0d-f894f4d03c25")
 		)
 		(instances
 			(project "Hardware_design_IoT"
@@ -690,9 +1639,8 @@
 		)
 	)
 	(sheet
-		(at 55.88 102.87)
-		(size 43.18 64.77)
-		(fields_autoplaced yes)
+		(at 205.74 62.23)
+		(size 43.18 72.39)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -702,7 +1650,7 @@
 		)
 		(uuid "89ea4a5a-fb06-447b-bcef-d7a00c236952")
 		(property "Sheetname" "Interfaces"
-			(at 55.88 102.1584 0)
+			(at 238.76 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -711,7 +1659,7 @@
 			)
 		)
 		(property "Sheetfile" "Interfaces.kicad_sch"
-			(at 55.88 167.5896 0)
+			(at 214.122 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -720,7 +1668,7 @@
 			)
 		)
 		(pin "MODEM_RX" bidirectional
-			(at 55.88 147.32 180)
+			(at 205.74 114.3 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -730,7 +1678,7 @@
 			(uuid "86cc3ff7-cecd-44cd-b3fd-349ce5209929")
 		)
 		(pin "MODEM_TX" bidirectional
-			(at 55.88 151.13 180)
+			(at 205.74 118.11 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -740,7 +1688,7 @@
 			(uuid "89c2a7d0-dc4c-437c-928d-fd0aabbbca64")
 		)
 		(pin "1.8V" input
-			(at 66.04 102.87 90)
+			(at 214.63 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -750,7 +1698,7 @@
 			(uuid "cf26a722-b613-420e-9050-c0202b6c7276")
 		)
 		(pin "MCU_TO_DODEM_UART_RX" bidirectional
-			(at 99.06 144.78 0)
+			(at 248.92 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -760,7 +1708,7 @@
 			(uuid "2486b74b-0660-44c2-9e93-ec0bd9654dbd")
 		)
 		(pin "MCU_TO_DODEM_UART_TX" bidirectional
-			(at 99.06 148.59 0)
+			(at 248.92 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -769,28 +1717,8 @@
 			)
 			(uuid "339dd2f0-64c2-4365-a081-a67073708da5")
 		)
-		(pin "CP2102_TO_MODEM_RX" bidirectional
-			(at 99.06 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "f7bd62c2-aeb2-4fb8-9449-9e06356f7a0b")
-		)
-		(pin "CP2102_TO_MODEM_TX" bidirectional
-			(at 99.06 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "e78aeb17-24de-427e-84b6-17c364f587c4")
-		)
 		(pin "3.3V" input
-			(at 88.9 102.87 90)
+			(at 227.33 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -798,6 +1726,196 @@
 				(justify right)
 			)
 			(uuid "77c23451-8c12-4f47-9366-64e1629782d1")
+		)
+		(pin "USB_P" bidirectional
+			(at 248.92 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5274e97d-f835-405e-858e-d1acdaeb6080")
+		)
+		(pin "USB_N" bidirectional
+			(at 248.92 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "2beb74b6-52b0-4832-af7d-27ea131e5b3a")
+		)
+		(pin "SIM_VDD" input
+			(at 205.74 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f307aa62-b850-429b-aaca-02dfd28f47b1")
+		)
+		(pin "SIM_RST" input
+			(at 205.74 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2381f93a-b3ad-42e1-90a3-85e88b21331f")
+		)
+		(pin "SIM_CLK" input
+			(at 205.74 78.74 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "c833330e-2556-49be-8223-b323cd77d120")
+		)
+		(pin "SIM_DATA" bidirectional
+			(at 205.74 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "59ee5662-9276-4e58-9ddc-baf3e78a79ab")
+		)
+		(pin "3.V" input
+			(at 220.98 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a5080a5f-b089-4b49-8e00-f031317b5cfe")
+		)
+		(pin "SD_DATA3" bidirectional
+			(at 248.92 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "dfaf9ab9-0322-4718-8fe9-e04b549bb6a7")
+		)
+		(pin "SD_DATA2" bidirectional
+			(at 248.92 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f42ffc6d-a67b-4725-a9a8-b440d8a59f4a")
+		)
+		(pin "SD_DATA0" bidirectional
+			(at 248.92 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7e84f19b-4567-40e2-9957-93910768e4ea")
+		)
+		(pin "SD_DATA1" bidirectional
+			(at 248.92 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "445f4f6e-d9af-4fc8-bf56-87542c53bb12")
+		)
+		(pin "SD_CMD" input
+			(at 205.74 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2e72f3d8-1eb3-4d60-8cfd-f4b287491c07")
+		)
+		(pin "SD_CLK" input
+			(at 205.74 93.98 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "24f8abaa-186d-42f3-831a-695d2c3818b3")
+		)
+		(pin "NETLIGHT" input
+			(at 205.74 125.73 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "580897b1-1e52-4262-b8d5-f936b9c6f833")
+		)
+		(pin "STATUS" input
+			(at 205.74 129.54 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "01a24030-7c8d-4f53-9906-04acaacaacf0")
+		)
+		(pin "VCC_LTEMODEM" input
+			(at 233.68 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f0f9358e-dae5-416e-9ce3-6f40e28c7b59")
+		)
+		(pin "MAIN_ANTENNA" bidirectional
+			(at 248.92 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8d471e90-82be-4b4b-93fb-9bbd0c57fa58")
+		)
+		(pin "AUX_ANTENNA" output
+			(at 248.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0c79155b-b31a-47af-a696-826a58ab8bc9")
+		)
+		(pin "GNSS_ANTENNA" output
+			(at 248.92 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "4d6d9aa7-0786-4f43-a500-7c577f194a7f")
 		)
 		(instances
 			(project "Hardware_design_IoT"
@@ -808,7 +1926,7 @@
 		)
 	)
 	(sheet
-		(at 179.07 36.83)
+		(at 110.49 71.12)
 		(size 33.02 48.895)
 		(stroke
 			(width 0.1524)
@@ -819,7 +1937,7 @@
 		)
 		(uuid "bd33c687-234b-4def-8a10-9de953d2ca05")
 		(property "Sheetname" "STM32 MCU Unit"
-			(at 187.706 35.814 0)
+			(at 119.126 70.104 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -828,7 +1946,7 @@
 			)
 		)
 		(property "Sheetfile" "STM32_MCU_Unit.kicad_sch"
-			(at 179.07 86.3096 0)
+			(at 110.49 120.5996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -837,7 +1955,7 @@
 			)
 		)
 		(pin "3.3V" input
-			(at 179.07 45.72 180)
+			(at 110.49 80.01 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -847,7 +1965,7 @@
 			(uuid "3cf8ce8c-dcd8-4672-a4db-d8c3f42b3952")
 		)
 		(pin "GND" input
-			(at 179.07 77.47 180)
+			(at 110.49 111.76 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -857,7 +1975,7 @@
 			(uuid "54d2769b-4381-4439-b8a3-c43d06593570")
 		)
 		(pin "LTEMODEM_RST" output
-			(at 212.09 45.72 0)
+			(at 143.51 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -867,7 +1985,7 @@
 			(uuid "5c6f02d2-0741-4527-9b03-d76c27b71070")
 		)
 		(pin "LTEMODEM_ON_OFF" output
-			(at 212.09 49.53 0)
+			(at 143.51 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -877,7 +1995,7 @@
 			(uuid "d46c83c8-4497-4335-b51e-25d21aa7796f")
 		)
 		(pin "MCU_TO_MODEM_UART_TX" bidirectional
-			(at 212.09 66.04 0)
+			(at 143.51 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -887,7 +2005,7 @@
 			(uuid "1b5886a2-7b9a-4968-b50f-2e4130176c27")
 		)
 		(pin "MCU_TO_MODEM_UART_RX" bidirectional
-			(at 212.09 62.23 0)
+			(at 143.51 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -897,7 +2015,7 @@
 			(uuid "fe458d9d-982b-4b0e-acb7-8d5bcb3ada33")
 		)
 		(pin "LTEMODEM_LDO_EN" output
-			(at 212.09 53.34 0)
+			(at 143.51 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)

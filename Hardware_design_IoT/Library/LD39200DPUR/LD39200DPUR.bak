@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-	(symbol "MP1584EN"
+	(symbol "LD39200DPUR"
 		(pin_names
 			(offset 1.016)
 		)
@@ -10,7 +10,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -10.185 10.6942 0)
+			(at -10.16 10.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18,8 +18,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "MP1584EN"
-			(at -13.208 -13.462 0)
+		(property "Value" "LD39200DPUR"
+			(at -10.16 -12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27,8 +27,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MP1584EN:SOIC127P600X170-9N"
-			(at -0.762 -31.75 0)
+		(property "Footprint" "LD39200DPUR:SON80P400X400X100-9N"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38,7 +38,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0.762 -9.398 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47,7 +47,16 @@
 			)
 		)
 		(property "Description" ""
-			(at 0.762 -9.398 0)
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "STMicroelectronics"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56,8 +65,8 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Monolithic Power"
-			(at -0.254 -34.036 0)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1 mm"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66,78 +75,8 @@
 				(hide yes)
 			)
 		)
-		(property "PACKAGE" "None"
-			(at -19.812 -35.052 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PRICE" "None"
-			(at 4.318 -38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOIC-8 Monolithic Power"
-			(at 0 -35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/MP1584EN/Monolithic+Power+Systems+Inc./view-part/?ref=eda"
-			(at 0.762 29.718 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC-7351B"
-			(at -1.016 -40.386 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MP1584EN/Monolithic+Power+Systems+Inc./view-part/?ref=snap"
-			(at 0.762 29.718 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "MP1584EN"
-			(at 1.778 -31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=891721&manufacturer=Monolithic Power&part_name=MP1584EN&search_term=None"
-			(at 0.762 29.718 0)
+		(property "Package" "DFN-8 STMicroelectronics"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -147,7 +86,97 @@
 			)
 		)
 		(property "Price" "None"
-			(at -12.7 -38.862 0)
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/LD39200DPUR/STMicroelectronics/view-part/?ref=eda"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC 7351B"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "3"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/LD39200DPUR/STMicroelectronics/view-part/?ref=snap"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SNAPEDA_PACKAGE_ID" "32126"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "LD39200DPUR"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=482680&manufacturer=STMicroelectronics&part_name=LD39200DPUR&search_term=ld39200dpur"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nLinear Voltage Regulator IC Positive Adjustable 1 Output 2A 8-DFN (4x4)\n"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "STMicroelectronics"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -157,7 +186,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 15.494 -39.878 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -166,8 +195,8 @@
 				(hide yes)
 			)
 		)
-		(property "AVAILABILITY" "Unavailable"
-			(at 17.018 -34.29 0)
+		(property "SNAPEDA_PN" "LD39200DPUR"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -176,20 +205,10 @@
 				(hide yes)
 			)
 		)
-		(property "Description_1" "\nBuck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-SOIC (0.154, 3.90mm Width) Exposed Pad\n"
-			(at 0.762 29.718 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(symbol "MP1584EN_0_0"
+		(symbol "LD39200DPUR_0_0"
 			(rectangle
-				(start -10.16 10.16)
-				(end 10.16 -10.16)
+				(start -10.16 -10.16)
+				(end 10.16 10.16)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -198,10 +217,10 @@
 					(type background)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 15.24 7.62 180)
 				(length 5.08)
-				(name "SW"
+				(name "OUT"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -216,10 +235,10 @@
 					)
 				)
 			)
-			(pin input line
-				(at -15.24 -1.27 0)
+			(pin output line
+				(at 15.24 7.62 180)
 				(length 5.08)
-				(name "EN"
+				(name "OUT"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -234,10 +253,10 @@
 					)
 				)
 			)
-			(pin output line
-				(at 15.24 -5.08 180)
+			(pin input line
+				(at 15.24 5.08 180)
 				(length 5.08)
-				(name "COMP"
+				(name "ADJ"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -252,10 +271,10 @@
 					)
 				)
 			)
-			(pin input line
-				(at 15.24 -2.54 180)
+			(pin power_in line
+				(at 15.24 -7.62 180)
 				(length 5.08)
-				(name "FB"
+				(name "GND"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -270,10 +289,10 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 0 -15.24 90)
+			(pin output line
+				(at 15.24 0 180)
 				(length 5.08)
-				(name "GND"
+				(name "PG"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -289,9 +308,9 @@
 				)
 			)
 			(pin input line
-				(at -15.24 -7.62 0)
+				(at -15.24 2.54 0)
 				(length 5.08)
-				(name "FREQ"
+				(name "EN"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -309,7 +328,7 @@
 			(pin input line
 				(at -15.24 7.62 0)
 				(length 5.08)
-				(name "VIN"
+				(name "IN"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -324,10 +343,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 0 15.24 270)
+			(pin input line
+				(at -15.24 7.62 0)
 				(length 5.08)
-				(name "BST"
+				(name "IN"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -343,9 +362,9 @@
 				)
 			)
 			(pin power_in line
-				(at 15.24 -7.62 180)
+				(at 15.24 -5.08 180)
 				(length 5.08)
-				(name "GND"
+				(name "EXP"
 					(effects
 						(font
 							(size 1.016 1.016)

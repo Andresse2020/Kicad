@@ -179,7 +179,10 @@
       ],
       "track_widths": [
         0.0,
-        0.2
+        0.2,
+        0.355542,
+        0.5,
+        0.850146
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -211,10 +214,6 @@
         {
           "diameter": 0.0,
           "drill": 0.0
-        },
-        {
-          "diameter": 0.6,
-          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -434,7 +433,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -535,6 +534,14 @@
       {
         "netclass": "Power",
         "pattern": "/1.8V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/3V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/VCC_LTEMODEM"
       }
     ]
   },

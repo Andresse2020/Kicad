@@ -147,8 +147,8 @@
 		)
 		(symbol "SIM7600E-H_0_0"
 			(rectangle
-				(start -17.78 55.88)
-				(end 17.78 -53.34)
+				(start -17.78 -53.34)
+				(end 17.78 55.88)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -265,7 +265,7 @@
 					)
 				)
 			)
-			(pin power_out line
+			(pin output line
 				(at 22.86 45.72 180)
 				(length 5.08)
 				(name "VDD_1V8"
